@@ -25,6 +25,7 @@ import vn.hanu.restaurant.manager.utils.DataTransformUtil;
  *
  */
 
+// test
 @Controller
 public class CategoryController {
 
